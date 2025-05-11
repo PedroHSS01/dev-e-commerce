@@ -1,4 +1,4 @@
-# README - Sistema de E-commerce Escalável e Seguro
+# Sistema de E-commerce Escalável e Seguro
 
 ## Visão Geral
 Este projeto visa desenvolver um sistema de e-commerce escalável e seguro para a ShopOnline, uma varejista digital que enfrenta desafios operacionais devido ao rápido crescimento. O sistema foi projetado para melhorar a experiência do usuário, garantir alta disponibilidade durante picos de acesso e assegurar a consistência de dados em operações críticas, como estoque e pagamentos.
